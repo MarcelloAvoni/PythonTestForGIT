@@ -5,7 +5,7 @@
 print("Hello, Marcello! This is a simple Python script.")
 
 # Calculate the sum of numbers from 1 to 10
-sum_numbers = sum(range(1, 11))
+sum_numbers = sum(range(1, 20))
 
 # Print the result
-print("The sum of numbers from 1 to 10 is:", sum_numbers)
+print("The sum of numbers from 1 to 19 is:", sum_numbers)
